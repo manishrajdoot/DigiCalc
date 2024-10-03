@@ -2,8 +2,7 @@
 
 
 
-# Project Name: DigiCalc [Project_Link](https://github.com/manishrajdoot/DigiCalc)  //////// [Download DigiCalc]([DigiCalc.ZIP](https://github.com/user-attachments/files/17241904/DigiCalc.ZIP)
-)
+# Project Name: DigiCalc [Project_Link](https://github.com/manishrajdoot/DigiCalc)  //////// [Download DigiCalc]([DigiCalc.ZIP](https://github.com/user-attachments/files/17241904/DigiCalc.ZIP))
 
 
 **Step 1: Setting Up the Environment**
