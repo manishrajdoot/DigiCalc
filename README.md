@@ -2,7 +2,7 @@
 
 
 
-# Project Name: DigiCalc [Link]()
+# Project Name: DigiCalc [Project_Link](https://github.com/manishrajdoot/DigiCalc)   [Download DigiCalc]()
 
 
 **Step 1: Setting Up the Environment**
@@ -91,6 +91,7 @@ Finally, the mainloop() function was called to keep the window running and respo
 
 
 **Summary**
+
 In summary, this project involved creating a fully functional digital calculator using Python's tkinter library. The steps included designing the UI layout, implementing buttons for numeric input and basic arithmetic operations, and providing logic for calculations. The GUI was made flexible and responsive to enhance the user experience.
 
 
